@@ -1,6 +1,6 @@
 # Treasure Island (My Version)
 A text-based adventure game… with a twist.  
-Your mission is to find the treasure, but the journey is full of weird, funny, and slightly tragic endings.  
+Your mission is to find the treasure, but the journey is full of weird, funny, and slightly tragic endings.
 
 ## What I learned
 - Using nested `if` statements for decision-making  
